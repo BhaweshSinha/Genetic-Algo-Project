@@ -1,3 +1,3 @@
 # Genetic-Algo-Project
-Advanced Genetic algorithm based project, with research article and presence.
+Advanced Genetic algorithm based project, with research article and presence. In this project....
 Will be updated very soon
